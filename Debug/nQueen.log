@@ -1,0 +1,3 @@
+﻿  nqueen-seq.cpp
+c:\users\dracops\source\repos\nqueen\nqueen\nqueen-seq.cpp(191): warning C4018: '<': signed/unsigned mismatch
+  nQueen.vcxproj -> C:\Users\Dracops\source\repos\nQueen\Debug\nQueen.exe
